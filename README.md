@@ -31,7 +31,7 @@ The Image Caption Generator uses deep learning models to generate captions for i
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/pragatikharat17/shift-elite)
-- [Demo Video](https://drive.google.com/file/d/1zheNBScRH97OFnK23frZCqYTxfZ_pl10/view?usp=sharing)
+- [Demo Video](https://drive.google.com/file/d/1M7uZZuTqo0izz4LCNd82viLo9_IWimSJ/view?usp=sharing)
 - [Drive Link to Screenshots](https://drive.google.com/drive/folders/15m6KIRExkPqslkCtdI10p0eDwiRSqDRe?usp=share_link)
 
 ## 🤖Tech-Stack
